@@ -358,12 +358,16 @@ Además del impacto económico directo, la experiencia del cliente se ve profund
 
 **Figma**
 
-
+<div style="align: center">
+  <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjih1p5gfTNIjPJ8wUgngz7_k8tUFdhHG42g&s" alt = "Figma-logo">
+</div>
  Producto SaaS utilizado para la elaboración de la propuesta de diseño de interfaces (UX/UI), incluyendo la creación de Wireframes, Mock-ups y Prototipos interactivos para el Landing Page y las aplicaciones web. Permite la colaboración en tiempo real del equipo de diseño.
 
 Ruta de referencia: https://www.figma.com/
 
 **HTML5 & CSS3**
+
+  <img src = "https://i.pinimg.com/736x/fe/57/10/fe571020f2e476bca20e1ae6441569ec.jpg" alt = "html_css-logo">
 
 
 Lenguajes estándar de marcado y hojas de estilo utilizados para definir la estructura semántica y el diseño visual estático de los templates en el Landing Page y los componentes de las Frontend Web Applications.
@@ -371,17 +375,18 @@ Lenguajes estándar de marcado y hojas de estilo utilizados para definir la estr
 Ruta de referencia: Herramientas nativas del estándar web (No aplica ruta de descarga). Documentación de referencia: https://developer.mozilla.org/
 
 **Angular Framework**
+<div style="align: center">
+  <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVUcQofbdW28AoTCjLFzojT7sSZQVsEurWQA&s" alt = "angular-logo">
+</div>
 
 Framework de desarrollo principal para la construcción de las Frontend Web Applications en formato SPA (Single Page Application). Se encarga de la lógica de presentación en el lado del cliente, el enrutamiento y el consumo de la API RESTful utilizando TypeScript como lenguaje de programación.
 
 Ruta de descarga: https://angular.io/cli
 
 
-
-
 **Miro**
-<div style="text-align: center;">
-  <img src = "https://w7.pngwing.com/pngs/613/411/png-transparent-miro-app-logo-tech-companies-thumbnail.png" alt = "miro-logo" class = "miro-logo" id = "miro-logo">
+<div style="align: center">
+  <img src = "https://asset.brandfetch.io/idAnDTFapY/idDdbxxs3M.png" alt = "miro-logo">
 </div>
 
  Plataforma de pizarra virtual (SaaS) empleada para las sesiones colaborativas de análisis de dominio y la elaboración de los diagramas de Big Picture EventStorming y Design-Level EventStorming.
@@ -390,6 +395,10 @@ Ruta de referencia: https://miro.com/
 
 **Structurizr**
 
+<div style="align: center">
+  <img src = "https://www.nuget.org/profiles/structurizr/avatar?imageSize=512" alt = "structurizr-logo">
+</div>
+
 
 Herramienta de modelado utilizada para el diseño y la documentación de la arquitectura de software de la solución, aplicando estrictamente el C4 Model (Context, Container y Component diagrams).
 
@@ -397,13 +406,18 @@ Ruta de referencia: https://structurizr.com/
 
 **Microsoft SQL Server**
 
+<div style="align: center">
+  <img src = "https://cdn-icons-png.flaticon.com/512/5968/5968364.png" alt = "sql-logo">
+</div>
+
 Sistema de Gestión de Bases de Datos Relacionales (RDBMS) utilizado para el diseño y almacenamiento persistente de los datos transaccionales de los Bounded Contexts del sistema. Soporta la integridad referencial y las consultas estructuradas necesarias para la lógica del backend.
 
 Ruta de descarga: https://www.microsoft.com/sql-server/sql-server-downloads
 
 **Spring Boot (Java)**
-
-
+<div style="align: center">
+  <img src = "https://e4developer.com/posts/microservices-toolbox-spring-boot/images/spring-boot.png" alt = "springboot-logo">
+</div>
 Framework backend basado en Java utilizado para la construcción, configuración y despliegue de los RESTful Web Services. Gestiona la lógica de negocio, la seguridad, las transacciones y la exposición de los endpoints que serán consumidos por las aplicaciones web.
 
 Ruta de descarga: https://spring.io/projects/spring-boot
