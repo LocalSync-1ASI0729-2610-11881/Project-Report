@@ -1,39 +1,59 @@
+<div align="center">
+
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/246a4dfb-6dd5-4909-a472-6cdce8319986" />
+
+# Universidad Peruana de Ciencias Aplicadas
+
+## Facultad de Ingeniería
+
+## Programa Académico de Ingeniería de Software
+
+**Ciclo:** 2026-10  
+
+**Código del curso:** 1ASI0729
+
+**Curso:** Desarrollo de Aplicaciones Open Source
+
+**NRC:** 11881
+
+**Docente del curso:** Efraín Ricardo Bautista Ubillús
+
+---
 
 # Informe de Trabajo Final
 
-**Universidad:** [Universidad Peruana de Ciencias Aplicadas]  
-**Facultad:** [Facultad de Ingeniería]  
-**Carrera:** [Ingeniería de software]  
-**Ciclo:** [2026 - 1]  
-**Código del Curso:** [1ASI0729] — [Desarrollo de Aplicaciones Open Source]  
-**NRC:** [NRC]  
-**Profesor:** [Efraín Ricardo Bautista Ubillús]  
+**Nombre de la Startup:** LocalSync  
+
+**Nombre del producto:** LocalSync
 
 ---
 
-**Startup:** [LocalSync]  
-**Producto:** [Nombre del Producto]  
+## Integrantes
 
-**Integrantes:**
-
-| Código | Apellidos y Nombres |
-|--------|---------------------|
-| [u202411310] | [Azama Fukuda, Juan Pablo] |
-| [Código] | [Apellido, Nombre] |
-| [Código] | [Apellido, Nombre] |
-
-**Mes y Año:** [Marzo, 2026]
+u20241d317 - Atoche Gonzales, Nicolas Fernando  
+u202411310 - Azama Fukuda, Juan Pablo  
 
 ---
 
-## Registro de Versiones del Informe
+*Abril, 2026*
 
-| Versión | Fecha | Autor | Descripción |
-|---------|-------|-------|-------------|
-| 1.0 | [Fecha] | [Autor] | Versión inicial |
+</div>
 
 ---
+
+# Registro de Versiones del Informe
+
+| Versión | Fecha | Autor | Descripción de modificación |
+|--------|------|------|-----------------------------|
+| | | | |
+
+---
+## Student Outcome
+
+| Criterio específico | Acciones realizadas | Conclusiones |
+| :--- | :--- | :--- |
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia.** | | |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia.** | | |
 
 ## Project Report Collaboration Insights
 
@@ -526,11 +546,11 @@ Angular. (s.f.). Angular Coding Style Guide. Angular. Recuperado el 8 de abril d
 
 Cucumber. (s.f.). Gherkin Reference. Cucumber. Recuperado el 8 de abril de 2026, de https://cucumber.io/docs/gherkin/reference/
 
-Google. (s.f.-a). Google HTML/CSS Style Guide. GitHub. Recuperado el 8 de abril de 2026, de https://google.github.io/styleguide/htmlcssguide.html
+Google. (s.f.). Google HTML/CSS Style Guide. GitHub. Recuperado el 8 de abril de 2026, de https://google.github.io/styleguide/htmlcssguide.html
 
-Google. (s.f.-b). Google Java Style Guide. GitHub. Recuperado el 8 de abril de 2026, de https://google.github.io/styleguide/javaguide.html
+Google. (s.f.). Google Java Style Guide. GitHub. Recuperado el 8 de abril de 2026, de https://google.github.io/styleguide/javaguide.html
 
-Google. (s.f.-c). Google TypeScript Style Guide. GitHub. Recuperado el 8 de abril de 2026, de https://google.github.io/styleguide/tsguide.html
+Google. (s.f.). Google TypeScript Style Guide. GitHub. Recuperado el 8 de abril de 2026, de https://google.github.io/styleguide/tsguide.html
 
 DINGG. (2025). Your 5-Step Operational Plan to Handle Equipment Failures. DINGG. Recuperado el 8 de abril de 2026, de https://dingg.app/blogs/your-5-step-operational-plan-to-handle-equipment-failures
 
