@@ -6,7 +6,7 @@
 
 ## Facultad de Ingeniería
 
-## Programa Académico de Ingeniería de Software
+## Ingeniería de Software
 
 **Ciclo:** 2026-10  
 
