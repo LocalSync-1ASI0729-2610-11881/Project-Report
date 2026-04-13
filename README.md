@@ -276,7 +276,7 @@ Además del impacto económico directo, la experiencia del cliente se ve profund
 #### 2.2.3. Análisis de entrevistas
 
 #### Entrevista 1
-#### Hábitos y :
+#### Hábitos y Entorno:
 Joan suele asistir en **"hora punta"**, lo que implica una saturación casi total del local. Aunque su intención es seguir una planificación rigurosa, la falta de disponibilidad de equipos lo obliga a **improvisar constantemente**, alterando el orden de su rutina según las máquinas que se van liberando.
 
 #### Frustraciones Principales (Pain Points):
